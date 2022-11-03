@@ -1,0 +1,6 @@
+[submodule "docs/fingerprint"]
+	path = docs/fingerprint
+	url = git@github.com:maxirmx/fingerprint.git
+[submodule "docs/click2call"]
+	path = docs/click2call
+	url = git@github.com:maxirmx/click2call.git
